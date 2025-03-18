@@ -3,4 +3,4 @@
 
 
 ## class diagram 
-! [class diagram wip](images/ClassDiagramWIP.png)
+![class diagram wip](images/ClassDiagramWIP.png)
