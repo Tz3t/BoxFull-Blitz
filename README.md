@@ -3,4 +3,4 @@
 
 
 ## class diagram 
-![class diagram wip](images/BoxFull Blitz class diagram.png)
+! [class diagram wip](images/BoxFull Blitz class diagram.png)
