@@ -1,5 +1,5 @@
 class Box {
-
+boolean intersectPlayer
 int rX, rY, rDiam, rHealth, rSpeed
 }
 
