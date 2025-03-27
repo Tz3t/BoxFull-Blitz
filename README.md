@@ -25,11 +25,11 @@
 
 
 
-* personal brainstorming
-// csv for inventory, stats, map
-// enchanced for loop for enemies array 
-// include a turn based mode maybe
-// I and O with exception handling for csv and save file 
+* personal brainstorming / ideas that will be used
+* *csv for inventory, stats, map
+* enchanced for loop for enemies array 
+* include a turn based mode maybe
+* I and O with exception handling for csv and save file 
 
 
 
