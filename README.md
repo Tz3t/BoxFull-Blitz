@@ -25,11 +25,13 @@
 
 
 
-# personal brainstorming / ideas that will be used
+
+## personal brainstorming / ideas that will be used / to do list
 * csv for inventory, stats, map
 * enchanced for loop for enemies array 
 * include a turn based mode maybe
 * I and O with exception handling for csv and save file 
-
+* Bosses within different scenarios that will start at certain times or time intervals
+* Figure out the skill tree and projectiles
 
 
