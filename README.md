@@ -1,6 +1,6 @@
 # BoxFull-Blitz
 ###
-* BoxFull-Blitz is a rougelite game. BFB is gonna be OOP, and will use java processing.
+* BoxFull-Blitz is a rougelite game (examples of rougelites; Vampire survivors, binding of issac, Risk of rain). BFB is gonna be OOP, and will use java processing.
 * BFB will have graphics within processing
 * BFB's main play loop; The player starts on a map whether being a plain background or a "randomly generated scenario bg", this is where different enemies start to spawn and seek out the player; so far there are to types of enemies melee types and ranged types (not including any bosses if i will add that), the player at this point will have one main weapon with another in their inventory that takes time to switch to, the player has health and exp personally, while the "game" has time passed, num of enemies, with them all being displayed on the GUI. 
 * Their is no end scenario for BFB, it is a "survival type game", after the player dies they will aquire skill points based off of their time survived, amount of enemies destroyed, powerups, and difficulties
